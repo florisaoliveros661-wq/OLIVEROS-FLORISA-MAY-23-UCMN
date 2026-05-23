@@ -1,0 +1,6 @@
+Z:\II230\OLIVEOS,FLORISA\Finals\OliverosFlorisaFinalExam\OliverosFlorisaFinalExam\bin\Debug\OliverosFlorisaFinalExam.exe.config
+Z:\II230\OLIVEOS,FLORISA\Finals\OliverosFlorisaFinalExam\OliverosFlorisaFinalExam\bin\Debug\OliverosFlorisaFinalExam.exe
+Z:\II230\OLIVEOS,FLORISA\Finals\OliverosFlorisaFinalExam\OliverosFlorisaFinalExam\bin\Debug\OliverosFlorisaFinalExam.pdb
+Z:\II230\OLIVEOS,FLORISA\Finals\OliverosFlorisaFinalExam\OliverosFlorisaFinalExam\obj\Debug\OliverosFlorisaFinalExam.csprojResolveAssemblyReference.cache
+Z:\II230\OLIVEOS,FLORISA\Finals\OliverosFlorisaFinalExam\OliverosFlorisaFinalExam\obj\Debug\OliverosFlorisaFinalExam.exe
+Z:\II230\OLIVEOS,FLORISA\Finals\OliverosFlorisaFinalExam\OliverosFlorisaFinalExam\obj\Debug\OliverosFlorisaFinalExam.pdb
